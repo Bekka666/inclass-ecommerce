@@ -2,19 +2,33 @@
 .btn:link,
 .btn:visited {
 	display: inline-block;
+<<<<<<< HEAD
 	padding: 0.75rem 1em;
 	background-color: #793284;
 	background-image: linear-gradient(to bottom, #793284, #571062);
 	border-radius: 4px;
 	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+=======
+	padding: 0.75em 1em;
+	background-color: #793284;
+	background-image: linear-gradient(to bottom, #793284, #571062); /*minus all the unmbers by 2 to get a close color for gradient*/
+	border-radius: 4px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+>>>>>>> 46b71db5de2a63fa110180104e4380d38bf36915
 	color: #fff;
 	font-weight: bold;
 	border: 0;
 }
 
+<<<<<<< HEAD
 .btn-alt,
 .btn-alt:link,
 .btn-alt:visited{
 	background-color: #5d8432;
 	background-image: linear-gradient(to bottom, #5d8432, #3d6210);
+=======
+.btn-alt{
+	background-color: #5d8432;
+	background-image: linear-gradient(to bottom,#5d8432,#3b6210);
+>>>>>>> 46b71db5de2a63fa110180104e4380d38bf36915
 }
