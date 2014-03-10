@@ -4,6 +4,7 @@ name: Pteranodon
 time_period: Jurassic
 diet: Carnivore
 image: air-dinos/pteranodon.jpg
+layout: default
 ---
 
 The Pteranodon is an amazing flying dino!
