@@ -4,7 +4,7 @@ name: Tyrannosaurus
 time_period: Late Cretaceous
 diet: Carnivore
 image: land-dinos/hadrosaur.jpg
-layout: default
+layout: dinosaurs
 ---
 
 The *Tyrannosaurus* is the **fiercest** dinosaurs that ever existed.
