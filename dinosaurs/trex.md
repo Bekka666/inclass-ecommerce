@@ -12,4 +12,4 @@ The T-Rex lives in the [Late Cretaceous Period](http://en.wikipedia.org/wiki/Cre
 - Small arms
 - Thick tail
 
-![T-Rex](http://upload.wikimedia.org/wikipedia/commons/0/0c/T._rex_old_posture.jpg)
+![T-Rex](http://th03.deviantart.net/fs71/PRE/f/2014/008/e/7/tyrannosaur_lineup__old__by_sketchy_raptor-d6lie0h.png)
